@@ -1,0 +1,12 @@
+{
+  "name": "desafio-fingerprint",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker para captura de fingerprints",
+  "main": "index.js",
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler publish"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
