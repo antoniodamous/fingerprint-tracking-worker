@@ -1,0 +1,9 @@
+name = "desafio-fingerprint"
+type = "javascript"
+account_id = "SEU_ACCOUNT_ID"
+workers_dev = true
+compatibility_date = "2024-02-15"
+[vars]
+SECRET_KEY = "sua-chave-secreta"
+[d1_databases]
+DB = { binding = "DB", database_name = "nome-do-seu-banco", database_id = "SEU_DATABASE_ID" }
